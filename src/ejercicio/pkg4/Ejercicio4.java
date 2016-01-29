@@ -21,6 +21,9 @@ public class Ejercicio4 {
         System.out.println(a-b);
         System.out.println(a/b);
         System.out.println(a*b);
+        
+        
+        
         System.out.println("sadasdsa");
     }
     
